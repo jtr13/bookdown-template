@@ -1,4 +1,4 @@
-This is a template for the EDAV final project. It is based on the template created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. 
+This is a template for creating an [HTML GitBook style](https://bookdown.org/yihui/bookdown/html.html#gitbook-style) with the R [**bookdown**] (https://github.com/rstudio/bookdown) book, [hosted on GitHub Pages](https://bookdown.org/yihui/bookdown/github.html). It is based on the one created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. It assumes you know how to use git/GitHub and R Markdown, and have some familiarity with the **bookdown** package. If you don't, the package author Yihue Xie's RStudio webinar [*Introduction to Bookdown (R Package)*](Introduction to Bookdown (R Package) provides an excellent introduction. In addition, check out [*bookdown: Authoring Books and Technical Documents with R Markdown*](https://bookdown.org/yihui/bookdown), also by Yihui Xie, both for the content and the format--it is itself a **bookdown** book.
 
 
 ## ABSOLUTE ESSENTIALS
@@ -9,9 +9,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO.
 
-- [ ] 2. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths".  (If you change your mind before you do any work, delete your new repo and start over.)
-
-- [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project".
+- [ ] 2. Choose a descriptive name for your repo based on your content. Unlike when you fork a repo, you get to choose the name. (If you change your mind before you do any work, delete your new repo and start over.)
 
 ### Clone the repo
 
@@ -33,7 +31,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 ### Render the book
 
-- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to version 0.16 (2019-11-22).
+- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
 
 - [ ] 2. Render locally with `bookdown::render_book("index.Rmd")`.
 
@@ -49,7 +47,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
 
-At some point before you turn in your project, delete the content of this **README** and add a short description of your project with a link to the book URL. Please add: "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/EDAVproject" to the end of the README.
+Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template" to the end of the README.
 
 For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
