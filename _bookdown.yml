@@ -1,4 +1,4 @@
-book_filename: "finalproj"
+book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
 edit: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/master/%s
