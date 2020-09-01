@@ -17,8 +17,6 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 - [ ] 3. Make a change to the repo and commit it, such as deleting the steps in this README that you've already completed. This will trigger GitHub Pages to publish the website.
 
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template" to the end of the README.
-
 ### Clone the repo
 
 - [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
@@ -49,6 +47,10 @@ Once you've completed these steps, delete the content of this **README** and add
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
+### Edit README
+
+Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template" to the end of the README.
+
 ### Demo Video
 
 A demo video showing how to create a **bookdown book** following these instructions: http://bit.ly/5minutebookdown
@@ -56,6 +58,4 @@ A demo video showing how to create a **bookdown book** following these instructi
 ### Additional features
 
 Please consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
-
-
 
