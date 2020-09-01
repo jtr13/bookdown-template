@@ -11,11 +11,9 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 ### Set up GitHub Pages
 
-- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, try making a small change locally, rendering the book, and pushing the changes to trigger a deploy.)
+- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, make a change and commit it to trigger a GitHub Pages build.)
 
 - [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
-
-- [ ] 3. Make a change to the repo and commit it, such as deleting the steps in this README that you've already completed. This will trigger GitHub Pages to publish the website.
 
 ### Clone the repo
 
