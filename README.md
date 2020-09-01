@@ -53,7 +53,7 @@ Once you've completed these steps, delete the content of this **README** and add
 
 ### Demo Video
 
-A demo video showing how to create a **bookdown book** following these instructions: http://bit.ly/5minutebookdown
+A demo video showing how to create a **bookdown book** following these instructions: http://bit.ly/fiveminutebookdown
 
 ### Additional features
 
