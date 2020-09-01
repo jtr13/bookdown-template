@@ -11,6 +11,14 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 - [ ] 2. Choose a descriptive name for your repo based on your content. Unlike when you fork a repo, you get to choose the name. (If you change your mind before you do any work, delete your new repo and start over.)
 
+### Set up GitHub Pages
+
+- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, try making a small change locally, rendering the book, and pushing the changes to trigger a deploy.)
+
+- [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
+
+Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template" to the end of the README.
+
 ### Clone the repo
 
 - [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
@@ -40,14 +48,6 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 - [ ] 4. If it looks good, commit and push all changed files to GitHub. 
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
-
-### Set up GitHub Pages
-
-- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, try making a small change locally, rendering the book, and pushing the changes to trigger a deploy.)
-
-- [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
-
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template" to the end of the README.
 
 ### Demo Video
 
