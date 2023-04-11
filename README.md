@@ -3,6 +3,8 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 ## ABSOLUTE ESSENTIALS
 
+*Prereqs: This tutorial assumes you know how to use git/GitHub through RStudio. If you need help getting that set up see: [Happy Git and GitHub for the useR](https://happygitwithr.com/) by Jenny Bryan.
+
 *Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue.*
 
 ### Copy this template
